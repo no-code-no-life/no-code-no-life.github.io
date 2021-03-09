@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35758b23-e21b-4940-88aa-f92c9b70494d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pTT3X6GXqQ1UiktJ8gZvEzmdEE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\no_code_no_life\Desktop\STUDIK NULP\4 term\WEB\Lab1\no-code-no-life.github.io\css" />
+      <recent name="C:\Users\no_code_no_life\Desktop\STUDIK NULP\4 term\WEB\Lab1\no-code-no-life.github.io" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="edit_user.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/edit_user.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="profile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/profile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.about.html" />
+        <item itemvalue="JavaScript Debug.1.html" />
+        <item itemvalue="JavaScript Debug.profile.html" />
+        <item itemvalue="JavaScript Debug.edit_user.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35758b23-e21b-4940-88aa-f92c9b70494d" name="Default Changelist" comment="" />
+      <created>1615205883383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615205883383</updated>
+      <workItem from="1615205885261" duration="19056000" />
+      <workItem from="1615303228558" duration="7160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615219089009">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="755" y="342" key="#com.intellij.fileTypes.FileTypeChooser/68.0.1852.1080@68.0.1852.1080" timestamp="1615219089009" />
+    <state x="724" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615308560226">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="724" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/68.0.1852.1080@68.0.1852.1080" timestamp="1615308560226" />
+    <state x="663" y="318" width="662" height="640" key="EditFileWatcherDialog" timestamp="1615309538873">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="663" y="318" width="662" height="640" key="EditFileWatcherDialog/68.0.1852.1080@68.0.1852.1080" timestamp="1615309538873" />
+    <state x="495" y="185" key="SettingsEditor" timestamp="1615309539819">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="495" y="185" key="SettingsEditor/68.0.1852.1080@68.0.1852.1080" timestamp="1615309539819" />
+    <state x="598" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1615217176077">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="598" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/68.0.1852.1080@68.0.1852.1080" timestamp="1615217176077" />
+    <state x="1018" y="0" width="918" height="1066" key="dock-window-1" timestamp="1615210508568">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="1018" y="0" width="918" height="1066" key="dock-window-1/68.0.1852.1080@68.0.1852.1080" timestamp="1615210508568" />
+    <state x="786" y="398" width="490" height="396" key="scopes" timestamp="1615309515391">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="786" y="398" width="490" height="396" key="scopes/68.0.1852.1080@68.0.1852.1080" timestamp="1615309515391" />
+  </component>
+</project>

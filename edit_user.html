@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <title>Edit Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="navbar">
+    <a href=index.html>Main</a>
+    <a href="about.html">About Us</a>
+    <div class="topnav-right">
+        <a href="login.html">Log In</a>
+        <a href="profile.html">Profile</a>
+    </div>
+</nav>
+
+
+<div class="imgcontainer">
+    <h2>Edit User</h2>
+    <img src="img/def_ava.png" alt="Avatar" class="avatar">
+</div>
+
+<div class="container">
+    <label for="username"><b>First Name</b></label>
+    <label>
+        <input type="text" placeholder="Name" name="name" required>
+    </label>
+    <label for="username"><b>Last Name</b></label>
+    <label>
+        <input type="text" placeholder="Surname" name="surname" required>
+    </label>
+
+
+    <label for="user_time_zone"><b>Time Zone</b></label>
+
+
+    <select id="user_time_zone" class="container-time">
+        <option value="Hawaii">(GMT-10:00) Hawaii</option>
+        <option value="Alaska">(GMT-09:00) Alaska</option>
+        <option value="Pacific Time (US &amp; Canada)">(GMT-08:00) Pacific Time (US &amp; Canada)</option>
+        <option value="Arizona">(GMT-07:00) Arizona</option>
+        <option value="Mountain Time (US &amp; Canada)">(GMT-07:00) Mountain Time (US &amp; Canada)</option>
+        <option value="Central Time (US &amp; Canada)" selected="selected">(GMT-06:00) Central Time (US &amp;
+            Canada)
+        </option>
+        <option value="Eastern Time (US &amp; Canada)">(GMT-05:00) Eastern Time (US &amp; Canada)</option>
+        <option value="Indiana (East)">(GMT-05:00) Indiana (East)</option>
+    </select>
+    <div><label for="email"><b>Email</b></label>
+<form>
+        <label>
+            <input type="text" placeholder="email" name="email" required>
+        </label></form>
+    </div>
+    <label for="New_Pass"><b>Password</b></label>
+    <label>
+        <input type="text" placeholder="New Password" name="New_Pass" required>
+    </label>
+    <label for="Confirm_Pass"><b>Confirm password</b></label>
+    <label>
+        <input type="text" placeholder="Confirm Password" name="Confirm_Pass" required>
+    </label>
+    <button type="submit">Submit Changes</button>
+
+</div>
+
+
+</body>
+</html>

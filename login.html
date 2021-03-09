@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <title>Login Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="navbar">
+    <a href=index.html>Main</a>
+    <a href="about.html">About Us</a>
+    <div class="topnav-right">
+        <a class="active" href="login.html">Log In</a>
+        <a href="profile.html">Profile</a>
+    </div>
+</nav>
+
+
+<div class="imgcontainer">
+    <h2>Login</h2>
+    <img src="img/def_ava.png" alt="Avatar" class="avatar">
+</div>
+
+<div class="container">
+    <label for="username"><b>Username</b></label>
+    <label>
+        <input type="text" placeholder="Enter Username" name="username" required>
+    </label>
+
+    <label for="password"><b>Password</b></label>
+    <label>
+        <input type="password" placeholder="Enter Password" name="password" required>
+    </label>
+
+    <button type="submit">Login</button>
+    <label>
+        <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+</div>
+
+<div class="container">
+    <form action="forgot_pass.html">
+                <button type="submit" class="forgot-pass-btn">Forgot password</button>
+    </form>
+    <form action="index.html">
+        <button type="submit" class="cancelbtn">Cancel</button>
+    </form>
+
+</div>
+
+
+</body>
+</html>
