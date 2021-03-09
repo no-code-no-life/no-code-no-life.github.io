@@ -1,0 +1,229 @@
+*
+  box-sizing: border-box
+
+html
+  scroll-behavior: smooth
+  min-height: 100%
+
+body
+  font-family: Arial, serif
+  padding: 10px
+  background-image: url('https://wonderfulengineering.com/wp-content/uploads/2014/07/black-wallpapers-2.jpg')
+  background-repeat: no-repeat
+  background-attachment: fixed
+  background-position: center
+  color: white
+
+/* Header/Blog Title
+
+.header
+  padding-top: 50px
+  text-align: center
+  font-size: 30px
+
+  h1
+    font-size: 50px
+
+/* Style the top navigation bar
+
+.navbar
+  overflow: hidden
+  background-color: #000000
+  position: fixed
+  width: 100%
+  top: 0
+  left: 50%
+  -webkit-transform: translateX(-50%)
+  transform: translateX(-50%)
+  font-size: 20px
+
+.active
+  background-color: #5d5d5d
+
+/* Style the topnav links
+
+.navbar a
+  border-right: 1px solid #bbb
+  float: left
+
+  /*display: block;
+  color: #ffffff
+  text-align: center
+  padding: 14px 16px
+  text-decoration: none
+  font-size: 20px
+
+  &:hover
+    background-color: #5b5b5b
+    color: #00ff00
+
+/* Change color on hover
+
+.topnav-right
+  float: right
+
+/* Create two unequal columns that floats next to each other
+/* Left column
+
+.leftcolumn
+  float: left
+  width: 33%
+
+/* Right column
+
+.rightcolumn
+  float: left
+  width: 34%
+  padding-left: 20px
+
+.rrcol
+  padding-left: 20px
+  float: left
+  width: 33%
+
+.info-card
+  min-height: 100%
+  background: linear-gradient(45deg, dimgrey, #ffffff)
+  border: medium black
+
+/* Fake image
+
+.fakeimg
+  background-color: #759677
+  width: 100%
+  height: 100px
+  padding: 20px
+  text-align: center
+
+/* Add a card effect for articles
+
+.card
+  background: linear-gradient(45deg, #292929, #8d8d8d)
+  padding: 20px
+  margin-top: 20px
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+  transition: 0.3s
+  border: 6px solid #384037
+
+  /*text-align: center;
+
+  &:hover
+    box-shadow: 0 8px 16px 0 rgb(0, 255, 4)
+
+.card-descr
+  text-align: center
+
+/* Clear floats after the columns
+
+.row:after
+  content: ""
+  display: table
+  clear: both
+
+/* Footer
+
+.footer
+  padding: 20px
+  text-align: center
+  background: #ddd
+  margin-top: 20px
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other
+@media screen and (max-width: 800px)
+  .leftcolumn, .rightcolumn, .rrcol
+    width: 100%
+    padding: 0
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other
+@media screen and (max-width: 400px)
+  .navbar a
+    float: none
+    width: 100%
+
+.ui-select
+  width: 100%
+  padding: 0
+
+body
+  font-family: Arial, Helvetica, sans-serif
+
+input
+  &[type=text], &[type=password]
+    width: 100%
+    padding: 12px 20px
+    margin: 8px 0
+    display: inline-block
+    border: 1px solid #ccc
+    box-sizing: border-box
+
+button
+  background-color: #0f8814
+  color: white
+  padding: 14px 20px
+  margin: 8px 0
+  border: none
+  cursor: pointer
+  width: 100%
+
+  &:hover
+    opacity: 0.8
+
+.cancelbtn
+  width: auto
+  padding: 10px 18px
+  background-color: #f44336
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+
+.forgot-pass-btn
+  width: auto
+  float: right
+  padding: 10px 18px
+  background-color: #f44336
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+
+.cancelbtn:hover
+  box-shadow: 0 8px 16px 0 rgb(255, 0, 0)
+
+.editbtn
+  float: right
+  width: auto
+  padding: 15px 20px
+  background-color: #f44336
+
+.imgcontainer
+  text-align: center
+  margin: 35px 0 12px 0
+
+img.avatar
+  width: 10%
+  border-radius: 50%
+
+.container
+  padding: 16px
+
+.container-profile
+  padding: 20px
+  font-size: 25px
+
+.container-time
+  padding: 13px
+
+span.psw
+  float: right
+  padding-top: 16px
+  color: deepskyblue
+
+@media screen and (max-width: 300px)
+  span.psw
+    display: block
+    float: none
+
+  .cancelbtn, .container
+    width: 100%
+
+#grad1
+  height: max-content
+  background-color: red
+
+  /* For browsers that do not support gradients
+  background-image: linear-gradient(red, yellow)
