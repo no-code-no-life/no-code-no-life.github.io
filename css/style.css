@@ -171,6 +171,9 @@ body {
   transition: 0.3s;
   border: 6px solid #384037;
 }
+.user-list-card:hover {
+  box-shadow: 0 8px 16px 0 #00ff04;
+}
 
 .row-list:after {
   content: "";
