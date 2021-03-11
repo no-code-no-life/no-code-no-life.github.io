@@ -9,38 +9,38 @@
 <nav class="navbar">
     <a href=index.html>Main</a>
     <a href="#">About Us</a>
+    <a href="user_list.html">User list</a>
     <div class="topnav-right">
         <a href="login.html">Log In</a>
         <a href="profile.html">Profile</a>
     </div>
 </nav>
 
-
-<div class="imgcontainer">
-
-    <label for="username"><b>Amount</b></label>
-    <label>
+<div class="login-box">
+    <h1>Take credit</h1>
+    <div class="textbox">
         <input type="text" placeholder="Amount" name="Amount" required>
-    </label>
-
-
-    <label for="user_time_zone"><b>Time Zone</b></label>
-
-    <div>
-        <select id="user_time_zone" class="container-time">
-            <option value="1 ">1 month</option>
-            <option value="3 ">3 months</option>
-            <option value="6 ">6 months</option>
-            <option value="9 ">9 months</option>
-            <option value="12 ">12 months</option>
-            <option value="24" selected="selected">24 months
-            </option>
-        </select>
     </div>
-    <button type="submit">Submit Changes</button>
+
+
+    <select id="user_time_zone" class="container-time">
+        <option value="1 ">1 month</option>
+        <option value="3 ">3 months</option>
+        <option value="6 ">6 months</option>
+        <option value="9 ">9 months</option>
+        <option value="12 ">12 months</option>
+        <option value="24" selected="selected">24 months
+        </option>
+    </select>
+
+    <button type="submit">Submit Credit</button>
+
+    <form action="index.html">
+        <button type="submit" class="cancelbtn">Cancel</button>
+    </form>
+
 
 </div>
-
 
 </body>
 </html>
