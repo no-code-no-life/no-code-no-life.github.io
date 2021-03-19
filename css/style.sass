@@ -22,23 +22,20 @@ body
 
 /* Header/Blog Title
 .about-card
+  font-family: sans-serif
+  font-size: 20px
   background: linear-gradient(45deg, #292929, #8d8d8d)
   padding: 20px
-  height: 1000px
   margin-top: 20px
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
   transition: 0.3s
   border: 6px solid #384037
 
 
-  /*text-align: center
-
-
   &:hover
     box-shadow: 0 8px 16px 0 rgb(0, 255, 4)
-
 .header
-  padding-top: 50px
+  padding-top: 100px
   text-align: center
   font-size: 30px
 
@@ -46,6 +43,14 @@ body
     font-size: 50px
 
 /* Style the top navigation bar
+
+.header-about
+  padding-top: 100px
+  text-align: center
+  font-size: 30px
+
+  h1
+    font-size: 50px
 
 .navbar
   overflow: hidden
@@ -94,7 +99,7 @@ body
 
 .rightcolumn
   float: left
-  width: 34%
+  width: 33%
   padding-left: 20px
 
 .rrcol
@@ -107,29 +112,24 @@ body
   background: linear-gradient(45deg, var(--first-bg-col), var(--second-bg-col))
   border: medium black
 
-.about-info-card
-  min-height: 100%
-  background: linear-gradient(45deg, var(--first-bg-col), var(--second-bg-col))
-  border: medium black
-  padding-left: 20%
+
 
 
 /* Fake image
 
-.fakeimg
+.some-txt
   background-color: #759677
   width: 100%
   height: 100px
   padding: 20px
   text-align: center
 
-.fakeimg-about
+.some-txt-about
   background-color: #759677
   width: 100%
   height: 600px
   padding: 20px
   text-align: center
-/* Add a card effect for articles
 
 .card
   background: linear-gradient(45deg, #292929, #8d8d8d)
@@ -139,21 +139,65 @@ body
   transition: 0.3s
   border: 6px solid #384037
 
-  /*text-align: center
-
-
   &:hover
     box-shadow: 0 8px 16px 0 rgb(0, 255, 4)
 
 .card-descr
   text-align: center
 
-/* Clear floats after the columns
 
 .row:after
   content: ""
   display: table
   clear: both
+
+.login-card
+  background: transparent
+  width: 90%
+  margin-top: 200px
+  padding-left: 10%
+  transition: 0.3s
+
+
+  color: white
+
+.forgot-pass-card
+
+  background: transparent
+  width: 50%
+  margin-left: 25%
+  padding: 40px
+  margin-top: 15%
+  transition: 0.3s
+
+.edit-card
+
+  background: transparent
+  width: 75%
+  margin-left: 100px
+  padding: 40px
+  margin-top: 20px
+  transition: 0.3s
+
+
+.register-card
+
+  background: transparent
+  width: 75%
+
+  margin-left: 100px
+  padding: 40px
+  margin-top: 20px
+  transition: 0.3s
+
+.profile-card
+
+  background: transparent
+  width: 50%
+  margin-left: 30%
+  padding: 40px
+  margin-top: 20px
+  transition: 0.3s
 
 .user-list-card
   background: linear-gradient(45deg, #292929, #8d8d8d)
@@ -178,8 +222,11 @@ body
 .footer
   padding: 20px
   text-align: center
-  background: #ddd
+  color: gray
+  position: center
+  bottom: 0
   margin-top: 20px
+  background: #084c08
 
 @media screen and (max-width: 800px)
   .leftcolumn, .rightcolumn, .rrcol
@@ -219,7 +266,7 @@ button
   &:hover
     opacity: 0.8
 
-.cancelbtn
+.register-btn
   width: auto
   padding: 10px 18px
   background-color: red
@@ -232,7 +279,7 @@ button
   background-color: red
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
 
-.cancelbtn:hover
+.register-btn:hover
   box-shadow: 0 8px 16px 0 var(--reed)
 
 .editbtn
@@ -269,7 +316,7 @@ span.psw
     display: block
     float: none
 
-  .cancelbtn, .container
+  .register-btn, .container
     width: 100%
 
 .forgot-box
@@ -313,7 +360,8 @@ span.psw
 .edit-box
   top: -30%
   width: 350px
-  position: absolute
+  margin-left: 25%
+  position: relative
   left: 50%
   transform: translate(-50%, 50%)
   color: white
@@ -369,3 +417,72 @@ span.psw
 
   /* For browsers that do not support gradients
   background-image: linear-gradient(red, yellow)
+
+
+.about_item
+  width: 380px
+  position: relative
+  background-color: #a9b8a9
+  &:hover
+
+    box-shadow: 10px 8px 16px 0 rgb(0, 255, 4)
+
+
+.about_img
+  background: linear-gradient(to bottom, #24730e, #e7e0c8)
+  transition: transform .2s linear
+  object-fit: cover
+  img
+    display: block
+    transition: opacity .1s linear
+    max-height: 100%
+    max-width: 100%
+
+.about_text
+  width: 100%
+  font-size: 18px
+  color: #fff
+  text-transform: uppercase
+  font-weight: 700
+  text-align: center
+  opacity: 0
+  transition: opacity .2s linear
+
+
+
+.section
+  padding: 80px 0
+
+.section_header
+  width: 100%
+  max-width: 950px
+  margin: 0 auto 40px
+  text-align: center
+
+.section_suptitle
+  font-family: 'Kaushan Script', cursive
+  font-size: 24px
+  color: #333
+
+.section_title
+  font-size: 30px
+  font-weight: 700
+  color: #333
+  text-transform: uppercase
+
+  &:after
+    content: ""
+    display: block
+    width: 60px
+    height: 3px
+    margin: 30px auto
+    background-color: #f38181
+
+.section_text
+  font-size: 15px
+  color: #999
+
+.about
+  margin-top: 80px
+  display: flex
+  justify-content: space-between
