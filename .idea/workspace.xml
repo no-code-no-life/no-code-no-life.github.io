@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35758b23-e21b-4940-88aa-f92c9b70494d" name="Default Changelist" comment="" />
+    <list default="true" id="35758b23-e21b-4940-88aa-f92c9b70494d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +68,10 @@
     <configuration name="edit_user.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/edit_user.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/index.html" useBuiltInWebServerPort="true">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/login.html" useBuiltInWebServerPort="true">
+    <configuration name="profile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/profile.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="take_money.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/take_money.html" useBuiltInWebServerPort="true">
@@ -78,10 +80,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.profile.html" />
         <item itemvalue="JavaScript Debug.take_money.html" />
         <item itemvalue="JavaScript Debug.edit_user.html" />
         <item itemvalue="JavaScript Debug.about.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +103,7 @@
       <workItem from="1615488083284" duration="1413000" />
       <workItem from="1615648978966" duration="15687000" />
       <workItem from="1616090666054" duration="407000" />
-      <workItem from="1616145261761" duration="661000" />
+      <workItem from="1616145261761" duration="1459000" />
     </task>
     <servers />
   </component>

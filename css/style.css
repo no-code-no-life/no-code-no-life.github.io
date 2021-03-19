@@ -219,6 +219,20 @@ body {
   box-shadow: 0 8px 16px 0 #00ff04;
 }
 
+.credit-list-card {
+  background: linear-gradient(45deg, #292929, #8d8d8d);
+  width: 50%;
+  margin-left: 25%;
+  padding: 30px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border: 6px solid #384037;
+}
+.credit-list-card:hover {
+  box-shadow: 0 8px 16px 0 #00ff04;
+}
+
 .row-list:after {
   content: "";
   display: table;
