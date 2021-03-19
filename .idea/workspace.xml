@@ -20,18 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35758b23-e21b-4940-88aa-f92c9b70494d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit_user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forgot_pass.html" beforeDir="false" afterPath="$PROJECT_DIR$/forgot_pass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_money.html" beforeDir="false" afterPath="$PROJECT_DIR$/take_money.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +62,7 @@
       <recent name="C:\Users\no_code_no_life\Desktop\STUDIK NULP\4 term\WEB\Lab1\no-code-no-life.github.io" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.take_money.html">
+  <component name="RunManager" selected="JavaScript Debug.login.html">
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/about.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -82,19 +72,19 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="take_money.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/take_money.html" useBuiltInWebServerPort="true">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="user_list.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/user_list.html" useBuiltInWebServerPort="true">
+    <configuration name="take_money.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/no-code-no-life.github.io/take_money.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.take_money.html" />
         <item itemvalue="JavaScript Debug.edit_user.html" />
         <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.user_list.html" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +104,7 @@
       <workItem from="1615488083284" duration="1413000" />
       <workItem from="1615648978966" duration="15687000" />
       <workItem from="1616090666054" duration="407000" />
+      <workItem from="1616145261761" duration="357000" />
     </task>
     <servers />
   </component>
